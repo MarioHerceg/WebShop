@@ -6,6 +6,6 @@ Morate se ulogirati/registrirati kako bi vidjeli proizvode.
 
 Collectioni baza podataka su u package.json i users.json
 
-
+Od tehnologija sam koristio ReactJS,  NodeJS, ExpressJS, MongoDB.
 
 
