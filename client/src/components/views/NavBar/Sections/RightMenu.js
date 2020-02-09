@@ -26,7 +26,7 @@ function RightMenu(props) {
           <a href="/login">Prijavi se</a>
         </Menu.Item>
         <Menu.Item key="app">
-          <a href="/register">Odjavi se</a>
+          <a href="/register">Registriraj se</a>
         </Menu.Item>
       </Menu>
     )
